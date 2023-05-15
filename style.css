@@ -1,0 +1,93 @@
+.logo{
+    width: 55px;
+    height: 40px;
+    background-color:dark;
+}
+img{
+    width: 55px;
+    height: 40px;
+}
+
+.banner-1{
+    width: 100%;
+    height: 550px;
+    /* background-color: aqua; */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqf9JKXh7B6l-tYbypFwNe5qEbcPp2OOeLA&usqp=CAU");
+    background-size: cover;
+}
+
+.banner-2{
+    width: 100%;
+    height:450px ;
+background-image: url("./images/banner\ apge\ 2.png");
+}
+
+.multiple-banner-page{
+    width: 100%;
+    height: 550px;
+    background-color: aqua;
+}
+.left-top{
+    width: 365px;
+    height: 241px;
+    background-color: blue;
+    margin-top: 20px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrVXicVPv49FEn5ybEe4B2JHas59qfxg2oQ&usqp=CAU");
+}
+.left-bottom{
+    width: 365px;
+    height: 241px;
+    background-color:brown;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO9XEdhQfwz1I-BMIQeIo7aAcfuEehKia1tA&usqp=CAU");
+    margin-top:40px ;
+}
+
+.rightside{
+    width: 900px;
+    height: 522px;
+    background-color: blueviolet;
+    margin-left: 402px;
+    margin-top: -521px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJVlpsE4tOQlkwdspYF_exkVe-5UcZ_XeQsA&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-3{
+    width: 100%;
+    height: 950px;
+    background-color: aquamarine;
+    background-image: url("https://www.pepsi.com/en-us/uploads/images/pepsi-mango/bg-1-desktop@2x.png");
+}
+
+.text{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(20, 20, 104);
+}
+h1{
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.last-div-img{
+    width: 100%;
+    height: 300px;
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-around;
+}
+.container-item{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin-top: 37px;
+    
+   
+}
+.img-a{
+    
+    background-image: url("https://www.pepsi.com/en-us/uploads/images/social-twitter.png?mtime=20180110134932");
+
+}
